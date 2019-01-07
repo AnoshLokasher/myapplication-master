@@ -7,9 +7,10 @@
 
     <string-array name="todo">
         <item>Wake up</item>
-        <item>Drink Coffee</item>
-        <item>Make at least one person laugh</item>
-        <item>Plant a tree</item>
+        <item>Eat Breakfast</item>
+        <item>Play PS4</item>
+        <item>Go To Gym</item>
+        <item>Revise for exams</item>
         <item>Go to sleep</item>
     </string-array>
 
